@@ -1,5 +1,7 @@
 <!----- FORKS - STARTS ----->
 
+<div align="center">
+  
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
