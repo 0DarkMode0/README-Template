@@ -48,15 +48,9 @@ Ferramentas:
 * Ferramenta 2
 * Ferramenta 3
 
-Fale mas ainda sobre seu projeto.
 
 
-### Projeto feito em:
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- LINKS - IMAGENS -->
 [forks-shield]: https://img.shields.io/github/forks/0DarkMode0/README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/0DarkMode0/README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/0DarkMode0/README-Template.svg?style=for-the-badge
